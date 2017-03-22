@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG;EACC,SAAS,EAAE,IAAI",
+"sources": ["styles-two.scss"],
+"names": [],
+"file": "styles-two.css"
+}
